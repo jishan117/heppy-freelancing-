@@ -1,0 +1,48 @@
+*{
+    
+    box-sizing: border-box;
+    color: rgb(20, 20, 20);
+
+}
+
+.heading{
+   background-color: blue;
+   height: 60px;
+   text-align: center;
+   display: flex;
+   
+}
+.heading h2{
+   margin: auto;
+   color: aliceblue;
+}
+p{
+    margin: 0px 40px;
+    text-align: justify;
+}
+
+ li{
+    padding: 5px 0px;
+ }
+
+
+ input{
+    margin: 19px;
+    color: black;
+    font-weight: bold
+    ;
+ }
+
+ label{
+    font-weight: bold;
+ }
+ a{
+   text-decoration: none;
+   color: aliceblue;
+   background-color: rgb(63, 2, 230);
+   padding: 5px;
+   margin: 0 auto;
+   display: block;
+   width: 139px;
+   border-radius: 4px;
+ }
